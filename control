@@ -1,6 +1,6 @@
-Package: com.bandarhl.bhtwitter
+Package: mie.bandarhl.bhtwitter
 Name: BHTwitter
-Version: 4.3
+Version: 4.3-2
 Architecture: iphoneos-arm
 Description: Awesome tweak for Twitter
 Maintainer: Bandar Alruwaili
